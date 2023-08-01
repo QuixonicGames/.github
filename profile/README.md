@@ -1,1 +1,1 @@
-![Landing Logo](https://github.com/QuixonicGames/.github/blob/develop/QGVertical.png)
+![Landing Logo](https://github.com/QuixonicGames/.github/blob/develop/QGVHorizontal.png)
